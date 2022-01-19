@@ -23,4 +23,4 @@ $ chmod 777 download-youtube.sh
 $ bash download-youtube.sh
 
 
-TELEGRAM : https://t.me/EdgarLuck
+TELEGRAM : https://t.me/edgarluck
